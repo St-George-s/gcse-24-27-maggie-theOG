@@ -28,8 +28,15 @@ mystery = 2 ** 3 # to the power of
 print(mystery)
 
 # activity 1 - take two inputs, multiply them together and output answer
-number1 = input("785932785749071758431") 
-number2 = input("986953078781678437453")
-multiply = int(number1) * (number2)
+number1 = input("enter a number: ") 
+number2 = input("enter a number: ")
+multiply = int(number1) * int(number2)
+print(multiply)
+print(number1 * number2)
 # activity 2 - input users age, output age times 7
+
 # activity 3 - take radius as input, output volume of sphere (v = 4/3 x pi x r^3)
+radius = float(input("enter a radius: "))
+print("volume of a sphere with radius ", radius, "is", 4/3 ** 3)
+humanage = int(input("enter age"))
+print("dog age is ", humanage * 7)

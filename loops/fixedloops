@@ -1,0 +1,26 @@
+# for counter in range(10):
+#     print("whats good bro")  #computer starts at 0
+
+# for counter in range(10):     #question 1
+#     print("garett")
+
+
+# name = input("enter a name: ")    #question 2
+# for counter in range(1000):
+#     print("hi", name)
+
+# name = input("enter a name: ")    #question 3
+# for counter in range(1000):
+#     print("hello", name)
+
+# for counter in range(1, 13):       #question 4
+#     print(counter * 8)
+
+# for counter in range(1, 1001):     #question 5
+#     print(counter * 8)
+
+# for counter in range(1, 1000000000):               #question 6
+#     print("7 x", counter, "=", counter * 7)
+
+for counter in range 
+

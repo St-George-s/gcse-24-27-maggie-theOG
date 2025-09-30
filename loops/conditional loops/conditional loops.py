@@ -21,8 +21,9 @@
 #     print("playing another")
 #     anotherepisode = input("another episode? ")
 
+# question 16
 money = input("give me an amount of money ")
 while int(money) < 100:
-    money = + input("i want more and ik you have more, dude i just want a nice dinner from pizza hut, thats all i ask, i just need a bit more ")
+    money = + int(input("i want more and ik you have more, dude i just want a nice dinner from pizza hut, thats all i ask, i just need a bit more "))
 
 

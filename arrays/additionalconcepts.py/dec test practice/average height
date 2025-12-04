@@ -1,15 +1,15 @@
-totalheight = 0 
-counter = 0
+# totalheight = 0 
+# counter = 0
 
 
-for i in range(4):
-    height = input("height?: ")
-    totalheight = totalheight + int(height)
-    counter = counter + 1
+# for i in range(4):
+#     height = input("height?: ")
+#     totalheight = totalheight + int(height)
+#     counter = counter + 1
    
    
    
-    print("average is: ", totalheight / counter)
+#     print("average is: ", totalheight / counter)
 
 import random 
 

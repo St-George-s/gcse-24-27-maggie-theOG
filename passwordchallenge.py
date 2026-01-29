@@ -46,51 +46,49 @@ print("this is yout final result:")
 
 
 if passwordlength >= 8 and lowercase_count >= 1 and uppercase_count >= 1 and number_count >= 1:
-    print("you did it, after ages you made a goddamn strong password")
+    print("high level password")
 
 if passwordlength >=8 and lowercase_count >= 1 and uppercase_count >= 1 and number_count == 0:
-    print("not good enough")
+    print("above average password")
 
 if passwordlength >= 8 and lowercase_count >= 1 and uppercase_count == 0 and number_count >= 0:
-    print("not good enough")
+    print("above average password")
 
 if passwordlength >= 8 and lowercase_count == 0 and uppercase_count >= 1 and number_count >= 1:
-    print("not good enough")
+    print("above average password")
 
 if passwordlength <8 and lowercase_count >= 1 and uppercase_count >= 1 and number_count >= 1:
-    print("not good enough")
+    print("above average password")
 
 if passwordlength <8 and lowercase_count == 0 and uppercase_count >= 1 and number_count >= 1:
-    print("not good enough")
+    print("average level password")
 
 if passwordlength <8 and lowercase_count >= 1 and uppercase_count == 0 and number_count >= 1:
-    print("not good enough")
+    print("average level password")
 
 if passwordlength <8 and lowercase_count >= 1 and uppercase_count >= 1 and number_count == 0:
-    print("not good enough")
+    print("average level password")
 
 if passwordlength >=8 and lowercase_count == 0 and uppercase_count == 0 and number_count >= 1:
-    print("not good enough")
+    print("average level password")
 
 if passwordlength >=8 and lowercase_count == 0 and uppercase_count >= 1 and number_count == 0:
-    print("not good enough")
+    print("average level password")
 
 if passwordlength >=8 and lowercase_count >= 1 and uppercase_count == 0 and number_count == 0:
-    print("not good enough") 
+    print("average level password") 
 
 if passwordlength <8 and lowercase_count == 0 and uppercase_count == 0 and number_count >= 1:
-    print("not good enough") 
+    print("low level password") 
 
 if passwordlength <8 and lowercase_count == 0 and uppercase_count >= 1 and number_count == 0:
-    print("not good enough")
+    print("low level password")
 
 if passwordlength <8 and lowercase_count >= 1 and uppercase_count == 0 and number_count == 0:
-    print("not good enough")
+    print("low level password")
 
 if passwordlength >= 8 and lowercase_count == 0 and uppercase_count == 0 and number_count == 0:
-    print("not good enough")
+    print("low level password")
 
-
-
-
-    
+if passwordlength < 8 and lowercase_count == 0 and uppercase_count == 0 and number_count == 0:
+    print("fuck you level password")

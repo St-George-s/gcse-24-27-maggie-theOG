@@ -91,4 +91,7 @@ if passwordlength >= 8 and lowercase_count == 0 and uppercase_count == 0 and num
     print("low level password")
 
 if passwordlength < 8 and lowercase_count == 0 and uppercase_count == 0 and number_count == 0:
-    print("fuck you level password")
+    print("go away broski luwoksi on a ham and cheese toastie")
+
+
+    
